@@ -129,6 +129,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+data/
+autoencoder_compressed_decoder/
+pca_compressed_metadata/
+trained_model.pth
 
 # Spyder project settings
 .spyderproject
